@@ -1,4 +1,4 @@
-message: hello world
+message: teste
 
 server:
   port: 9001
